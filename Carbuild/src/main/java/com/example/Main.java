@@ -20,7 +20,7 @@ public class Main {
                 .engine(ecoEngine)
                 .color("Silver")
                 .gps(true)
-                .build(); // tripComputer defaults to false
+                .build(); 
 
         System.out.println(sportsCar);
         System.out.println(familyCar);
